@@ -1,5 +1,5 @@
 # arch-repo jskier
-ArchLinux jskier repo
+ArchLinux jskier repo. Use at your own risk, may not be updated frequently and can damage things.
 
 `[jskier]`<br/>
 `SigLevel = Optional TrustAll`<br/>
